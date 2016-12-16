@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+    <label lang="de">Beispiel Einkaufswelten Element</label>
+    <label lang="en">Example Shopping World Element</label>
+
+    <version>1.0.0</version>
+    <author>Axel Böswetter</author>
+    <compatibility minVersion="5.2.0" />
+
+    <changelog version="1.0.0">
+        <changes lang="de">Veröffentlichung</changes>
+        <changes lang="en">Release</changes>
+    </changelog>
+</plugin>
